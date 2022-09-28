@@ -3,11 +3,11 @@
 
 ### Prev Portfolio
 
--  [대전_3반_박종준_포트폴리오.pdf](File\대전_3반_박종준_포트폴리오.pdf) 
+-  [대전_3반_박종준_포트폴리오.pdf](https://github.com/jongjunpark/Portfolio/blob/main/File/%EB%8C%80%EC%A0%84_3%EB%B0%98_%EB%B0%95%EC%A2%85%EC%A4%80_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) 
 
 ### 2022 Portfolio
 
-- [2022포트폴리오_완성.pdf](File\2022포트폴리오_완성.pdf) 
+- [2022포트폴리오_완성.pdf](https://github.com/jongjunpark/Portfolio/blob/main/File/2022%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%99%84%EC%84%B1.pdf) 
 
 ### 컨셉
 
