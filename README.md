@@ -1,13 +1,14 @@
 # Portfolio
-> 포트폴리오 만들기! 문서와 웹 두가지 모두
+> FE Engineer 박종준의 포트폴리오 컨셉 및 storage 공간입니다.
 
 ### Prev Portfolio
 
--  [대전_3반_박종준_포트폴리오.pdf](https://github.com/jongjunpark/Portfolio/blob/main/File/%EB%8C%80%EC%A0%84_3%EB%B0%98_%EB%B0%95%EC%A2%85%EC%A4%80_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) 
+-  [SSAFY](https://github.com/jongjunpark/Portfolio/blob/main/File/%EB%8C%80%EC%A0%84_3%EB%B0%98_%EB%B0%95%EC%A2%85%EC%A4%80_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+-  [2022](https://github.com/jongjunpark/Portfolio/blob/main/File/2022%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%99%84%EC%84%B1.pdf)
 
-### 2022 Portfolio
+### Recently Portfolio
 
-- [2022포트폴리오_완성.pdf](https://github.com/jongjunpark/Portfolio/blob/main/File/2022%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%99%84%EC%84%B1.pdf) 
+- [2023](https://github.com/jongjunpark/Portfolio/blob/main/File/2023%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 ### 컨셉
 
@@ -54,15 +55,3 @@
 ![20210910110348_2030](README.assets/20210910110348_2030.jpeg)
 
 - 파란색 : #0136f7
-
-
-
-### 로고
-
-- 로고는 나중에 필요시 첨부하는걸로..
-
-![image-20220705215653390](README.assets/image-20220705215653390.png)
-
-- 로고는 역시 어렵다...
-- 점 + 선 + 면으로 표현되는 로고를 만들고자 함
-- 면 내부를 격자로 두고 점과 선으로 구분해서 면을 구성하는 점과 선들을 나타내고자 함
